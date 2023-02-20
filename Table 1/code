@@ -12,4 +12,4 @@ GROUP BY calendar year, e.gender
 HAVING calendar_year >= 1990;
 
 
-#Results are available as both the table format in result table.csv and visualization format in visual.jpg
+#Results are available as both table format in result table.csv and visualization format in visual.jpg
