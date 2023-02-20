@@ -37,3 +37,6 @@ END$$
 DELIMITER;
 
 CALL filter_salary(50000, 90000);
+
+
+#Results are available as both table format in result table.csv and visualization format in visual.jpg
