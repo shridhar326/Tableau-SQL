@@ -28,3 +28,6 @@ FROM
        JOIN
      t_employees ee ON dm.emp_no = ee.emp_no
 ORDER BY dm.emp_no, calendar year;
+
+
+#Results are available as both the table format in result table.csv and visualization format in visual.jpg
